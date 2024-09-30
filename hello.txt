@@ -1,0 +1,5 @@
+Hello!
+
+This is an example text file. Make edits to this text file and push them to the repo.
+
+Good luck!
